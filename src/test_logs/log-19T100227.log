@@ -1,0 +1,17 @@
+10:02:28.311 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  D:\java\cohort65_QA\QA65_PhonebookUI\src\test\resources\testng.xml
+
+10:02:30.143 [main] INFO  com.phonebook.fw.ApplicationManager -- Tests start in Chrome browser
+10:02:31.116 [main] INFO  com.phonebook.fw.ApplicationManager -- Current url --> https://telranedu.web.app/
+10:02:31.503 [main] INFO  com.phonebook.tests.TestBase -- Start test isHomeComponentPresentTest[]
+10:02:31.506 [main] INFO  com.phonebook.utils.MyListener -- Before find elements By.cssSelector: div:nth-child(2)>div>div>h1
+10:02:31.507 [main] INFO  com.phonebook.utils.MyListener -- ************************************
+10:02:31.571 [main] INFO  com.phonebook.utils.MyListener -- List size is 1
+10:02:31.572 [main] INFO  com.phonebook.utils.MyListener -- ************************************
+10:02:31.574 [main] INFO  com.phonebook.utils.MyListener -- Before find elements By.cssSelector: div:nth-child(2)>div>div>h1
+10:02:31.575 [main] INFO  com.phonebook.utils.MyListener -- ************************************
+10:02:31.595 [main] INFO  com.phonebook.utils.MyListener -- List size is 1
+10:02:31.596 [main] INFO  com.phonebook.utils.MyListener -- ************************************
+10:02:31.606 [main] INFO  com.phonebook.tests.TestBase -- PASSED: isHomeComponentPresentTest
+10:02:31.606 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+10:02:31.606 [main] INFO  com.phonebook.tests.TestBase -- *********************************************************
